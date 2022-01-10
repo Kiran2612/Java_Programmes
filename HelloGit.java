@@ -5,6 +5,9 @@ public class HelloGit {
 
         System.out.println("Hello GitHub");
         System.out.println("Hello GitHub 2");
+        System.out.println("Hello GitHub 3");
+        System.out.println("Hello GitHub 4");
+
     }
 }
 
